@@ -5,7 +5,7 @@ ER図：https://drive.google.com/file/d/1mTNINERXjjxCEdsROr9pLmgxDyzemoeo/view?u
 
 ## 開発環境
 - OS：Linux(CentOS)
-- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- 言語：HTML,CSS,JavaScript,Ruby 2.6.3,SQL
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
 - IDE：Cloud9
